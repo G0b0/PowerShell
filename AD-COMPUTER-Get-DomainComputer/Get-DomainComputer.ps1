@@ -4,7 +4,7 @@
     The Get-DomainComputer function allows you to get information from an Active Directory Computer object using ADSI.
 
 .DESCRIPTION
-    The Get-DomainComputer function allows you to get information from an Active Directory Computer object using ADSI.
+    The Get-DomainComputer function allows you to get information from an Active Directory Computer object using ADSI .
     You can specify: how many result you want to see, which credentials to use and/or which domain to query.
 
 .PARAMETER ComputerName
